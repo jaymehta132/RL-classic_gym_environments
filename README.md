@@ -4,7 +4,7 @@ This is the repo for the Reinforcement Learning for Classic Gymnasium Environmen
 \\
 This repo contains the Q-Learning algorithm code for Cart Pole and Temporal Difference(0) Learning and Monte Carlo Algorithm codes for Taxi
 \\
-Results for Taxi:-\\
+Results for Taxi:-\newline
 Monte Carlo - Model learns very barely and the improvement by increasing training isn't much.\\
 TD(0) - Gives an average reward over 1000 episodes, more than 8 which is pretty close to the optimal value\\
 Results for Cart Pole:-\\
