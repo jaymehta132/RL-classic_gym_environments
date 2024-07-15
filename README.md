@@ -12,4 +12,4 @@ TD(0) - Gives an average reward over 1000 episodes, more than 8 which is pretty 
 
 Results for Cart Pole:-
 
-Q-Learning - Model performs very good on sufficient training time, giving an average reward of 3000 in the final 1000 episodes of training which is pretty high considering the fact that the problem is considered solved if the average rewards exceeds 200.
+Q-Learning - Model performs very good on sufficient training time, giving an average reward of 300 in the final 1000 episodes of training which is pretty high considering the fact that the problem is considered solved if the average rewards exceeds 200.
